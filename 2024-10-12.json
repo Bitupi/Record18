@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Garza",
+  "age": 40,
+  "address": {
+    "street": "Kafu Lane",
+    "city": "Meheef",
+    "state": "IL",
+    "zip": "71115"
+  },
+  "contact": {
+    "phone": "(360) 625-2160",
+    "servicePhone": "800386621"
+  },
+  "birthday": "1995-08-13T01:06:02.598Z",
+  "ip": "3.55.171.235",
+  "foo": "bar",
+  "profile": {
+    "about": "Pa ecopetgu nen agi tiholnah uta kuj uknog no buhrik hompoh das fuleb pogjufek efwo. Dav ezwiden ug va oh nakzuga ikade sokmiret hoawigop azi edvugema zetezdi. Ukivuj idi da wesmaj ujjehuj ah af law ke mi jirehkaw mudugon huthin sokeh gib abi. Towwom pukop milo ru necudot kawuwmac hepheh vu cif jas nugoca nowkonsi.",
+    "bio": "No tigjo kobbo ikaer ozijozu wam ehueh avo vojugpav lekwa ibgaz ikzej ceza. Omrihu muwti lepiw tioc ev nato arte doce go ujakizjuf mupvozu pobo wuga. Avwarezi wenod om rus ewivah upenej rovkiwaz mo mabuhice tognovi nu radew."
+  },
+  "apiKey": "588f478e3242eefb72a8cf5aab9dc0ec34913cc91280ee8835bd6f861e5ddde2",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
