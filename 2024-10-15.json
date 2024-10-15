@@ -1,0 +1,26 @@
+{
+  "name": "Harold Carr",
+  "age": 23,
+  "address": {
+    "street": "Wefej Way",
+    "city": "Keojemi",
+    "state": "LA",
+    "zip": "96863"
+  },
+  "contact": {
+    "phone": "(861) 578-8539",
+    "servicePhone": "800949581"
+  },
+  "birthday": "1997-08-05T06:28:19.937Z",
+  "ip": "17.48.89.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Sabo fivse pun jofma her il ifihaat inehe fec lo zel iv oron ciucoso. Wuwahir gufcuv nabefoja kogvune mah etkeeg fotombu se gebnofhim cefif vooc iciit havo. Mesjucug zetaet ucsim ilunalicu luw jobedfej ci bubhen ruglabe mo tolabuv tub emi vobjusid ofuju hu. Retnezu vekko cuel izreogo mi ise zi emaop sobjihol ubeop rap masam huwli jeceov mitho educmec naroro.",
+    "bio": "Gedofot al bopikarif jiw vedahi mobwug jefotuj somasa ciftifoj rucova ge vewjeztis kancefzo. Gozner zicvah ho papislu belizlo ikateb sufjoru ah lam selka kezsaf egbite lun hapom wotar hunta. Giejmu locozjez paj jatgigufe unu niow ivuhe aduemu parumta posolac ip ubewo agemecvi acwuhe do jiv cufijla kuwguhane. Dabij arco biglenag loigo diksala hefbeibi uvnahdo neprijfes covutpe visotja bunazul taju jawnovik fizu. Gizaok zajmac wiad niukbub eci zenmo ren suc toej asoziba as bihdaug omgoccej."
+  },
+  "apiKey": "394d7367e008df7231d1b805bd268e0adb99ffb8b46dfc4c57aee29226e0a413",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
