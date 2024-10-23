@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Mills",
+  "age": 34,
+  "address": {
+    "street": "Ovsu Heights",
+    "city": "Ginihoro",
+    "state": "HI",
+    "zip": "01236"
+  },
+  "contact": {
+    "phone": "(730) 321-2422",
+    "servicePhone": "800112861"
+  },
+  "birthday": "1991-03-29T07:01:59.950Z",
+  "ip": "5.39.154.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Lopmigat igobat webwa he zauwwu pir donuz dagadilic tew pewuomi sopi hi fa. Udritbed as bu ehebusol nawigbih gectunon bazrozfo nad robupa cuva razehuf fu gasob waupu gugaj ci. Vih bap obikira detiz jenumuz ubueduij piwbi nottuz jahgosa huji wa zuluvu oheno jofkub vibrocvum mub owafa.",
+    "bio": "Azu wim vinototag nukud pa jifafu bi debdefar nebobi nedgij cumheut ru tirjup mi ahlilan upi. Zo zamgizi kozomanul nebcu jap fudhu leplip zuhleweg ramuje laehik luk cofim moirusen lacud. Jiba puk ic ganej zufvaowu dir taspeiha dusafob zo aneef fidsena ri uwogig duvac zaitnob oveboglit."
+  },
+  "apiKey": "8cdddb7abc6ce944be822bfb2bf2b5276a19e9fb69687a28612feef77b271e5c",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
