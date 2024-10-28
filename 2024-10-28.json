@@ -1,0 +1,26 @@
+{
+  "name": "Lillian Davidson",
+  "age": 59,
+  "address": {
+    "street": "Bogik Way",
+    "city": "Cucevguf",
+    "state": "UT",
+    "zip": "28612"
+  },
+  "contact": {
+    "phone": "(711) 404-2143",
+    "servicePhone": "800655897"
+  },
+  "birthday": "2005-08-19T11:34:19.031Z",
+  "ip": "44.203.143.102",
+  "foo": "bar",
+  "profile": {
+    "about": "Gosed ubabo bahmenot labvet vinulju giarbe do da feho rib dezcuk weul. Tu wev bi va orpuh gokruk or dojawas eju kacnip wumovki lah gip cat. Zavve adu niknuzde meuniweg si caigeb zaw wabubet foj oja wo hahobcu jag vib afelaji. Si jaso safha lohec kuf mifukah ko gus uweagfol geraci gak iwda.",
+    "bio": "Vo ego vasitu gewuv havkaem favewgu misa ilno ipit me ropdehe lop vonacet. Av izsi ebpemas zuce fut hupgiktel vesmobi wetwulag codade la losigsiv utigide cicunsa mekmino pavde. Wugomepu wit tenjirki bazo huve hude ov vepvu bit omdakaka mi duvip."
+  },
+  "apiKey": "783c9d48335d4107ef8e27253c8799225ee7940630e6cc37432b8e1780583b4d",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
