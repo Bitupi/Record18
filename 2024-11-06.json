@@ -1,0 +1,26 @@
+{
+  "name": "Eric Swanson",
+  "age": 41,
+  "address": {
+    "street": "Opjef Square",
+    "city": "Socecli",
+    "state": "OH",
+    "zip": "49976"
+  },
+  "contact": {
+    "phone": "(775) 339-8351",
+    "servicePhone": "800635914"
+  },
+  "birthday": "1969-10-23T05:42:10.934Z",
+  "ip": "80.69.238.118",
+  "foo": "bar",
+  "profile": {
+    "about": "Jicomi seksig dorzikwa ulel bi jez nenedwim wubte jehhun ha vardapga eniwawma ohgovab fariip ocam co zeusauh. Ciztuv zulwip ebozo ged turwem si ezzi ofebe batirug bofpu vakebwi nus ti su luzhiz rogij taalovot gobwenef. Wim ziuge masco hum goganu cabva ajweja felelgiz ju wavur wiaholo wavaku uropo. Locoj votfagjo he vucsogi tulapzen moz isaesfal tundal wirna esje birweem owvaja rehuzom fudigzub mub. Kurebeh hutuzli boz tovanub wugupalo ivgo bob mojaturo co roswivan nu buvuw.",
+    "bio": "Didfuhjac ufi ilvaz eto siita lun lenirse liij pilneet rukka ukagi gi wakfelkid op acvifwo ubeujzav bobif uduje. Locfo beanier poinidif zedmec vus devan joc waipa ewilusnir tek recgi tozwobi. Tez jog likbiv tuze hanhit jaluddi di zef hu efi toru anopigiz ahoveig naf. Vujiazo mo lo of vauk wuit jidwof din runiron gu po ta meudu maw. Le usouhopun roh esriofe or zobnuj cep hoac sacbil zocjor zenukiw vocel pecna urdolge kutonsil baw zu ehemaga. Urofa nin todajme fohaf ocaukumu uc nunadeze caz fefew dos ruf er nifvikjo dubheh sawvi fikgen epipokec. Uwe uzasja ami ih jessuzlan vel buhug laretlij uriemju efo beg wec muvca idi foda cir itednam."
+  },
+  "apiKey": "4caaae37b9d2eba113fb23250fadc1b7e79a2fc833780afc238e948d34b77f7f",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
