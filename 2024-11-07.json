@@ -1,0 +1,26 @@
+{
+  "name": "John Leonard",
+  "age": 19,
+  "address": {
+    "street": "Ifaco Drive",
+    "city": "Jisojwej",
+    "state": "ME",
+    "zip": "66266"
+  },
+  "contact": {
+    "phone": "(863) 880-8137",
+    "servicePhone": "800488772"
+  },
+  "birthday": "2003-05-15T02:27:59.395Z",
+  "ip": "94.18.246.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewupi ja haaba arfij zi wuzam kisur owo ibfef kogmime totwo mo. Ofwit uc odolra ihmepwu bat siz pa sesec recso vispak siapoja vo ijilus rerfe edeob giphibwis kimujwi. Aho fugad udeje ti fomuzo asiktah sugjotud as wopir keszif dow ihu. Peow gas hafkopa anonuk ewatew miop majuc wi vialegi majovolu jihafum cesogve mi teheg ceemu.",
+    "bio": "Suamede sor oda mi tobeg zab ugotasun cig ic ligto nonudfez govcugna veigo ni fonitnus. Vitil etahi rozhesi lidfaji buvef iwevusdij viecewan om soja tisvu vifipuw bizdac javfer ni bazemi. Ehroju abuace ozijuse kik hus hihlod am bibuk bofelu beaw ow kuveji. Tewusneh pag wu laitudun oz ha mikgo kihzopne wima riceila or waket alva titewaf wa. Vobe cugedih ujhefvus niohipa ceknus nat vegi gafah zi oguholub eku goju ced vecavo. Wojwume nu unaokiles kel vojfuf tinode zoocki si uhe betonene weepika kacozca vefeb lofa."
+  },
+  "apiKey": "fa9389eb1da5e795b7ffd4437e22cede68434f10124a592ab115e0f6aad693d3",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
