@@ -1,0 +1,26 @@
+{
+  "name": "Bill Peterson",
+  "age": 23,
+  "address": {
+    "street": "Kapba Manor",
+    "city": "Dedcoug",
+    "state": "IA",
+    "zip": "87159"
+  },
+  "contact": {
+    "phone": "(451) 286-8253",
+    "servicePhone": "800178856"
+  },
+  "birthday": "1999-01-05T07:45:54.126Z",
+  "ip": "215.61.220.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Uri zocfibdu ri suze kew wadob va pikuwa ubalam ge ataihu vamuto rifisimu jisi wazutro iva ir bi. Mumfak zu lidemi foczanbit ru zicrav bim livop bawichuk suvvefap erfemu no juc. Kaical ne etuuhisuc caducov tid sajo zishupef igawe cukav izulepkab fenri tig ecwiv tihaep for pap bi wutit. Rehifleh gicvinlo ig im gazikun hutop be kota cifupta hupinot rekege za. Otirez jeloma kallu ov we ac ewuobi cozhah lozboloz jetuljag adoboz jodec dipomlo wemaf tuwcarzow moluk upe gitiuh. Du sij wo vutwuur az kuzilla vione jos todib fu nose rol baw casu decucli kokweih. Fisju abeoci kaj tudidabe wat wekaref nefhozle ake rupweci pi kunrozuw gezuale novi ragaot apa gabzac uhacudbat numtu.",
+    "bio": "Jaudo aledes apaewa kutoce napotej jece wonzom supvetmef vac foku zahahi obotuc convavfu dodmik kohare ceoda usepe. Awwanob go dobbetduc luthofiw nemod ku bolfume cunowsi kom hara jipfundus gafig gaco damerus eve kugpu. Aruc za awuijvi nohcer fiteji ze zenosuc em piam su git ginita wugo lecori kufkos ucen poznon epuka. Nalu sobvec pu uge rirabhoz fo ged tuhaho suwiafi roahoki jo tajunumos. Geiwezo ripnazehi muvze faminju mugab focafit isuiwrid jiof losozev ihjep lur mef ov ja ci ubzo."
+  },
+  "apiKey": "65fc1caad68b6541621ebcb9a4ebd307b76066cb97b5fd1c9980485e9a4e7c24",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
