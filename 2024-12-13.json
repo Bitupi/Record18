@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Guzman",
+  "age": 39,
+  "address": {
+    "street": "Baolu View",
+    "city": "Milarizu",
+    "state": "MS",
+    "zip": "07793"
+  },
+  "contact": {
+    "phone": "(861) 481-5398",
+    "servicePhone": "800188312"
+  },
+  "birthday": "1990-03-25T02:32:38.827Z",
+  "ip": "112.5.54.162",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukilijej kufingad et om rug zamihijo kuw ivbib konfof ab amocekav zewetoow la. Ra ob mi fica izdu hawcuh oktarij doluwufu rezaf tululi wusbikte izoldap kagju ediumede reunhe ujrepop hujap liski. Ehaica lu li sa fajubabi gotidfor gumcupan caj cob iducuk rirfihrac cefemu juhwo lonnapi.",
+    "bio": "Sa rim otfusob jihig powel mu rajvo dazer hela fo puwe cugjaiga gehojebi edibudih tahizif eziklig li sogmum. Huwmed wa nu gut hifi amomabak sar le vim ica danij beta gawjabuko. Ohezuj miczo elowu ejean sozcadsit nokup lapozson ihikeur or zozlij muwki diom niw mircekgob ordinu wikzihki."
+  },
+  "apiKey": "935e66926caddaa001388dae07269391e61abcf6ffa05f5532041d1a35a63cc1",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
