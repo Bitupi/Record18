@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Delacruz",
+    "age": 47,
+    "address": {
+        "street": "Stephen Forge",
+        "city": "South Stephenfort",
+        "state": "Georgia",
+        "zip": "86369"
+    },
+    "contact": {
+        "phone": "926.754.5808x844",
+        "servicePhone": "800196353"
+    },
+    "birthday": "1978-23-05",
+    "ip": "141.12.19.148",
+    "foo": "bar",
+    "profile": {
+        "about": "As six staff early result star. Station bring ability ability sure series thousand.\nEvent yourself necessary heavy safe. Top trip buy fire.",
+        "bio": "Push us loss. Land industry southern about glass wait. Face position seek our information here direction. Democrat finally perhaps.\nMan section else then major. Trip how pressure also."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
