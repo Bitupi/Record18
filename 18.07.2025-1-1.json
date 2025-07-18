@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Dean",
+    "age": 100,
+    "address": {
+        "street": "Michael Throughway",
+        "city": "Rebeccaland",
+        "state": "Wisconsin",
+        "zip": "00982"
+    },
+    "contact": {
+        "phone": "+1-889-283-8560x6923",
+        "servicePhone": "800298834"
+    },
+    "birthday": "1925-05-02",
+    "ip": "143.131.17.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Film really improve star. State foot program force day interview including beat.",
+        "bio": "First identify everything. Hope sell lead successful. Unit time sit radio race church past."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
