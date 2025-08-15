@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Sweeney",
+    "age": 89,
+    "address": {
+        "street": "Peggy Meadow",
+        "city": "Jameston",
+        "state": "Colorado",
+        "zip": "81180"
+    },
+    "contact": {
+        "phone": "001-950-455-0663x10656",
+        "servicePhone": "800118988"
+    },
+    "birthday": "1936-14-04",
+    "ip": "184.73.248.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Effort save dark idea year. Head past owner threat enter team dream war.",
+        "bio": "Serve build serve training wind leader color. News bill away price.\nOften charge life. Lawyer term we character piece lay. Including guy item."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
