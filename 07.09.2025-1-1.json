@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Potts",
+    "age": 52,
+    "address": {
+        "street": "Rodriguez Plain",
+        "city": "Silvamouth",
+        "state": "Maine",
+        "zip": "58502"
+    },
+    "contact": {
+        "phone": "2908843989",
+        "servicePhone": "800052431"
+    },
+    "birthday": "1973-29-03",
+    "ip": "150.149.70.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Message special instead discuss plan real interest president. You reason turn perhaps loss. Movie until next especially buy difference small. Record onto key daughter operation term not.",
+        "bio": "Foreign mean want movie us color television.\nAffect sure impact good doctor there. Garden place series can career his staff. Reduce lose stuff."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
