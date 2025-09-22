@@ -1,0 +1,25 @@
+{
+    "name": "Steven Jones",
+    "age": 55,
+    "address": {
+        "street": "Justin Gardens",
+        "city": "Kingshire",
+        "state": "North Dakota",
+        "zip": "48889"
+    },
+    "contact": {
+        "phone": "231-966-8975",
+        "servicePhone": "800615414"
+    },
+    "birthday": "1970-09-12",
+    "ip": "86.28.140.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior thought include. Front affect certain everyone.\nOutside move several. Economic see write civil power. Certainly blood history his.",
+        "bio": "Ago list local. Agree onto effort common find source trip.\nTravel pattern according idea Congress reach return. Yeah score deep strategy music tonight."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
