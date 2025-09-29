@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Robinson",
+    "age": 73,
+    "address": {
+        "street": "Samantha Loop",
+        "city": "New Nathanshire",
+        "state": "West Virginia",
+        "zip": "73474"
+    },
+    "contact": {
+        "phone": "974.450.0406",
+        "servicePhone": "800443385"
+    },
+    "birthday": "1952-07-10",
+    "ip": "67.22.186.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Both kind attention structure pull.\nWord career before much purpose. Example you water should available difficult.\nRest night window likely land.",
+        "bio": "Story notice material major tree. About amount million floor to choice."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
