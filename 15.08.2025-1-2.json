@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Olson MD",
+    "age": 113,
+    "address": {
+        "street": "Robert Groves",
+        "city": "Christinestad",
+        "state": "Missouri",
+        "zip": "44715"
+    },
+    "contact": {
+        "phone": "+1-455-781-2651x882",
+        "servicePhone": "800380633"
+    },
+    "birthday": "1912-23-05",
+    "ip": "66.217.128.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop attention always sing artist trade usually reduce. Leave oil if trip cover.\nForce again together low. Forget like far positive clear theory environmental. Seat produce difficult budget reality.",
+        "bio": "Well official time now. Phone nature interesting the however front challenge.\nAnyone mission where sing difficult. Around candidate party. Middle involve oil force vote customer wind."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

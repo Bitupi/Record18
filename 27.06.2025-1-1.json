@@ -1,0 +1,25 @@
+{
+    "name": "Robert Adams",
+    "age": 33,
+    "address": {
+        "street": "Simpson Wells",
+        "city": "Westville",
+        "state": "New Jersey",
+        "zip": "88276"
+    },
+    "contact": {
+        "phone": "(786)355-9730x306",
+        "servicePhone": "800904999"
+    },
+    "birthday": "1992-05-11",
+    "ip": "41.228.14.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Short recent hospital tonight office own. Card turn eight agree agree can.\nPainting choice sport beat. Whether nearly heavy.\nOpen serve woman west meeting machine. Customer young try wide.",
+        "bio": "Network spring economy challenge picture. Evening listen individual.\nUnderstand my meeting whatever foreign great."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
