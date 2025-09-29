@@ -1,0 +1,25 @@
+{
+    "name": "David Glass",
+    "age": 93,
+    "address": {
+        "street": "Smith Key",
+        "city": "South Ashley",
+        "state": "Maine",
+        "zip": "43678"
+    },
+    "contact": {
+        "phone": "+1-238-395-5918x341",
+        "servicePhone": "800379702"
+    },
+    "birthday": "1932-05-01",
+    "ip": "122.90.67.172",
+    "foo": "bar",
+    "profile": {
+        "about": "About word her natural. Woman among yard work perform social.\nAbout feeling already decide operation career. Look person among type scene seven heavy. Finish interview other girl couple camera.",
+        "bio": "Expect light space necessary thousand four its store. Language situation after manager owner. Month amount whom father.\nRemain doctor morning general recent. Section ground study official."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
