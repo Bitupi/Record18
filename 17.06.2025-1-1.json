@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Brown",
+    "age": 33,
+    "address": {
+        "street": "Martinez Turnpike",
+        "city": "Vegaton",
+        "state": "South Carolina",
+        "zip": "55105"
+    },
+    "contact": {
+        "phone": "5167995854",
+        "servicePhone": "800933890"
+    },
+    "birthday": "1992-22-01",
+    "ip": "64.128.172.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Front idea between approach son member. Hit bag fill or.\nExpect bit trip this sit and. Practice of society final. Foot easy character item a.",
+        "bio": "We alone interest responsibility task. Price my possible first name.\nRather doctor thing conference open yard something. Great his yes agree real husband picture. Occur operation then."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

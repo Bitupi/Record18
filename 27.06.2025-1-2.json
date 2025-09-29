@@ -1,0 +1,25 @@
+{
+    "name": "Laura Moore",
+    "age": 33,
+    "address": {
+        "street": "Gill Springs",
+        "city": "North Malik",
+        "state": "Maine",
+        "zip": "49469"
+    },
+    "contact": {
+        "phone": "816-768-8761",
+        "servicePhone": "800805890"
+    },
+    "birthday": "1992-02-12",
+    "ip": "177.158.30.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation seat chance side. Close call writer.\nControl two but quality her. Sense and democratic provide recent structure place. Personal base officer assume cold.",
+        "bio": "Each tonight agree ever. Quality film dream will boy involve. Phone man campaign scientist head.\nDiscuss approach though heart lead. Small down another."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

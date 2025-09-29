@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Steele",
+    "age": 25,
+    "address": {
+        "street": "Bruce Common",
+        "city": "New Amberchester",
+        "state": "Michigan",
+        "zip": "37389"
+    },
+    "contact": {
+        "phone": "(386)772-5391x6332",
+        "servicePhone": "800524183"
+    },
+    "birthday": "2000-27-06",
+    "ip": "118.117.169.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Data create book conference heart minute arrive. Improve media score line behavior throw choose. Look feeling recognize but on.",
+        "bio": "Collection no imagine our. West a along hope unit. Serve body place no attention.\nNeed approach product become store task night. Party use walk simply. Surface responsibility cover agency."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
