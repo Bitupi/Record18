@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Green",
+    "age": 95,
+    "address": {
+        "street": "Victor Cliffs",
+        "city": "Ramosview",
+        "state": "Colorado",
+        "zip": "90272"
+    },
+    "contact": {
+        "phone": "001-932-438-3536",
+        "servicePhone": "800948306"
+    },
+    "birthday": "1930-18-01",
+    "ip": "23.220.206.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Need plan goal continue claim. Republican hear major sign. Reason generation so there. Tonight world democratic.",
+        "bio": "Job father at speech world. Interesting long TV like behavior. Around son attention if tree room lead interest."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
