@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Lopez",
+    "age": 90,
+    "address": {
+        "street": "Richards Light",
+        "city": "Ingramhaven",
+        "state": "Utah",
+        "zip": "89348"
+    },
+    "contact": {
+        "phone": "864-849-3260",
+        "servicePhone": "800192297"
+    },
+    "birthday": "1935-22-09",
+    "ip": "8.195.132.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs prepare first analysis.\nAddress above speech by whole. Rather different make star argue care state note. Give condition environment boy impact nice.",
+        "bio": "Center a line. Fire always various sort. White nature ball big resource case. Alone she decide.\nRich ahead difference factor south high. Happen make see form risk what according."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
