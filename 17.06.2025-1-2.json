@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Higgins",
+    "age": 39,
+    "address": {
+        "street": "Jason Groves",
+        "city": "Annshire",
+        "state": "New Jersey",
+        "zip": "90995"
+    },
+    "contact": {
+        "phone": "898-485-9698",
+        "servicePhone": "800179248"
+    },
+    "birthday": "1986-09-04",
+    "ip": "58.236.136.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg myself would where community. Simply bad share follow reason ready moment. For study southern seek investment.",
+        "bio": "Dog themselves indeed young. Including down agent matter interview compare.\nFree contain put from company herself. However real commercial somebody cultural can future. Carry according away enter."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
