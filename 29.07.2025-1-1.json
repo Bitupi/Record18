@@ -1,0 +1,25 @@
+{
+    "name": "Spencer Farmer",
+    "age": 53,
+    "address": {
+        "street": "Short Corners",
+        "city": "Port Kimberlyfort",
+        "state": "Rhode Island",
+        "zip": "26749"
+    },
+    "contact": {
+        "phone": "(978)833-2416x769",
+        "servicePhone": "800504653"
+    },
+    "birthday": "1972-19-02",
+    "ip": "93.9.135.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Method shoulder similar along figure land he. Live PM reach through forward again. Office political theory meeting than difficult mention environment. Conference weight PM mission piece.",
+        "bio": "Bring most attack he her. Specific situation whatever food.\nRequire sometimes finally next have clearly.\nBuilding relate research wall life school data. Near pass wish effect. Field us church return."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

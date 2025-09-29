@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Best",
+    "age": 73,
+    "address": {
+        "street": "Angela Wall",
+        "city": "Sawyerchester",
+        "state": "Massachusetts",
+        "zip": "43605"
+    },
+    "contact": {
+        "phone": "001-204-725-9276x482",
+        "servicePhone": "800641563"
+    },
+    "birthday": "1952-08-09",
+    "ip": "145.117.73.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest material approach fall certainly. Image give do sister stand.\nThreat interest include thought. Writer like fly third by way above.",
+        "bio": "Expect message hot throughout positive effect long. Easy theory focus.\nDiscover control happy never position might protect."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

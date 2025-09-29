@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Gomez",
+    "age": 78,
+    "address": {
+        "street": "Powell Point",
+        "city": "Buchananhaven",
+        "state": "Nevada",
+        "zip": "68955"
+    },
+    "contact": {
+        "phone": "914.924.8782",
+        "servicePhone": "800685423"
+    },
+    "birthday": "1947-29-12",
+    "ip": "50.150.53.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial happen security half risk stage. Want against treatment top recently school. Stand his find good hold central worker. Small sport above bad decide see modern concern.",
+        "bio": "Actually decision agent agree similar. At red save listen choice. Any administration wonder give story grow free woman. Yes forget teach easy size act course too."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

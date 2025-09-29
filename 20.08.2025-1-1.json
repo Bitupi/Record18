@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Castillo",
+    "age": 61,
+    "address": {
+        "street": "Emily Passage",
+        "city": "Lake Monica",
+        "state": "West Virginia",
+        "zip": "22225"
+    },
+    "contact": {
+        "phone": "+1-230-263-7513x1703",
+        "servicePhone": "800751103"
+    },
+    "birthday": "1964-26-05",
+    "ip": "71.63.185.235",
+    "foo": "bar",
+    "profile": {
+        "about": "International individual scientist end design say. Off discussion understand century begin blood. Certainly safe former information.",
+        "bio": "Development best store enter one base citizen. Talk show message outside difficult area bank."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
